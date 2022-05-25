@@ -1,0 +1,9 @@
+[submodule "weed_robot_description"]
+	path = weed_robot_description
+	url = https://github.com/CIFASIS/weed_robot_description.git
+[submodule "weed_robot_gazebo"]
+	path = weed_robot_gazebo
+	url = https://github.com/CIFASIS/weed_robot_gazebo.git
+[submodule "weed_robot_navigation"]
+	path = weed_robot_navigation
+	url = https://github.com/CIFASIS/weed_robot_navigation.git
