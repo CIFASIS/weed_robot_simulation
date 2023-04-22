@@ -2,6 +2,35 @@
 
 Simulation of the soybean crop weeding robot developed by CIFASIS.
 
+## License
+
+weed_robot_simulation is released under BSD-2-Clause license.
+
+If you use weed_robot_simulation in an academic work, please cite:
+
+@article{ait2023travelling,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  title = {{A Travelling Salesman Problem Approach to Efficiently Navigate Crop Row Fields with a Car-Like Robot}},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  author = {Ait, Ismael and Kofman, Erneto and Pire, Taih{\\'u}},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  journal = {IEEE Latin America Transactions},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  volume = {21},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  number = {5},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  pages = {643-–651},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  month = {April},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  year = {2023},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  issn = {1548-0992},  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  url = {https://latamt.ieeer9.org/index.php/transactions/article/view/7751}  
+}
+
 ## Installation with Docker
 
 ### Dependencies
