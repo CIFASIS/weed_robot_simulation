@@ -12,7 +12,7 @@ If you use weed_robot_simulation in an academic work, please cite:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   title = {{A Travelling Salesman Problem Approach to Efficiently Navigate Crop Row Fields with a Car-Like Robot}},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  author = {Ait, Ismael and Kofman, Erneto and Pire, Taih{\\'u}},  
+  author = {Ait, Ismael and Kofman, Ernesto and Pire, Taih{\\'u}},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   journal = {IEEE Latin America Transactions},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,6 +29,7 @@ If you use weed_robot_simulation in an academic work, please cite:
   issn = {1548-0992},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   url = {https://latamt.ieeer9.org/index.php/transactions/article/view/7751} 
+  
 }
 
 ## Installation with Docker
