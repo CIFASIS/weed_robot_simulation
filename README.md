@@ -28,7 +28,7 @@ If you use weed_robot_simulation in an academic work, please cite:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   issn = {1548-0992},  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  url = {https://latamt.ieeer9.org/index.php/transactions/article/view/7751}  
+  url = {https://latamt.ieeer9.org/index.php/transactions/article/view/7751} 
 }
 
 ## Installation with Docker
