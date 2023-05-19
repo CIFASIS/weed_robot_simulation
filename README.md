@@ -2,11 +2,7 @@
 
 Simulation of the soybean crop weeding robot developed by CIFASIS.
 
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NlTgNNLH3LA
-" target="_blank"><img src="http://img.youtube.com/vi/NlTgNNLH3LA/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="640" height="480" border="10" /></a>  
-(Click the image to redirect to Weed Robot Simulation video)
+[![](https://markdown-videos.deta.dev/youtube/NlTgNNLH3LA)](https://youtu.be/NlTgNNLH3LA)
 
 ## License
 
